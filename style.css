@@ -1,0 +1,47 @@
+body {
+background-color:#fff;
+margin:0px;
+width:130px;
+height:165px;
+font-family:arial, sans-serif;
+font-size  :20px;
+font-weight:bold;
+line-height:20px;
+}
+#datalayer,
+#container {
+width:130px;
+height:165px;
+}
+#datalayer {
+background-color:#aaa;
+}
+#center {
+background-color:#aaa;
+width:118px;
+height:153px;
+padding:6px;
+}
+#images {
+background-color:#ccc;
+width:118px;
+height:153px;
+cursor:pointer;cursor:hand;
+overflow:hidden;
+}
+#debug {
+background-color:#dff0d8;
+font-family:"consolas";
+font-size:14px;
+width:130px;
+height:260px;
+}
+#debug>div {
+padding:5px 10px;
+}
+#dhead {
+height:30px;
+}
+#dtext {
+height:210px;
+}

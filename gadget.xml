@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+  <name>Boobs</name>
+  <version>1.0.0.1</version>
+  <author name="Oleg Shuldeshov">
+    <info url="vk.com/leszik" />
+    <logo src="logo.png" />
+  </author>
+  <icons>
+    <icon src="icon.png" width="64" height="64" />
+  </icons>
+  <hosts>
+    <host name="sidebar">
+      <base type="HTML" apiVersion="1.0.0" src="boobs.htm" />
+      <permissions>full</permissions>
+      <platform minPlatformVersion="0.3" />
+    </host>
+  </hosts>
+</gadget>
